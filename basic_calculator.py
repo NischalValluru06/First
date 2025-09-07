@@ -15,5 +15,3 @@ elif operation == "divide":
         print(f"{no1} / {no2} = {no1/no2}")
 else:
     print("ERROR! Please type in a valid operator: add, subtract, multiply, divide!")
-
-
